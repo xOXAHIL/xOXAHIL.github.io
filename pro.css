@@ -1,0 +1,88 @@
+
+body {
+    background-color: rgb(165, 165, 165);
+}
+#navbar{
+    display:flex;
+    height: auto;
+    margin-right: 0%;
+    padding: 0.3125em 1.5625em 25px 0.3125em 1.5625em;
+    justify-content: space-between;
+    background-color: white;
+}
+#aboutme{
+    text-align: center;
+}
+#firsthr{
+    border-top: 2px dashed gray;
+}
+#secondpart{
+    padding: 0px;
+    display:flex;
+    flex-direction: row;
+    gap:30px;
+    font-family: 'PT Sans', sans-serif;
+   
+}
+#leftpart{
+    padding: 20px 15px 20px 15px;
+    margin: 25px;
+    background-color: white;
+    align-content: center;
+    box-sizing: border-box;
+    border-radius: 15px;
+
+}
+#rightpart{
+    border-radius: 15px;
+    padding: 10px 15px 10px 15px;
+    margin:20px;
+    align-content: center;
+}
+#edu{
+    margin-bottom: 20px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px 15px 20px 15px;
+}
+#work{
+    margin-bottom: 20px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px 15px 20px 15px;
+}
+#pd{
+    margin-bottom: 20px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px 15px 20px 15px; 
+}
+#techy{
+    margin-bottom: 20px;
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px 15px 20px 15px;
+}
+
+#profilepic{
+    border-radius: 50%;
+    height: 35vh;
+    width: 35vh;
+}
+#leftpartnav{
+    display:flex;
+}
+#rightpartnav{
+    display:flex;
+    margin-right: 5px;
+}
+#pplogo{
+    height:7vh;
+    width: auto;
+}
+#notilogo{
+    height:3vh;
+    width: auto;
+    margin-top: 14px;
+    margin-right: 5px;
+}
